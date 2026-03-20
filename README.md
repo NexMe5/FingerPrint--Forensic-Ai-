@@ -569,7 +569,7 @@ git push origin feature/your-feature-name
 
 ## 📄 License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is used only for portfolio and educational project purposes.
 
 ---
 
