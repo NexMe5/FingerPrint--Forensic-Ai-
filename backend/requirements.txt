@@ -1,0 +1,12 @@
+nexttoken
+pandas
+numpy
+requests
+beautifulsoup4
+markdownify
+playwright
+lxml
+fastapi
+uvicorn
+python-multipart
+python-dotenv

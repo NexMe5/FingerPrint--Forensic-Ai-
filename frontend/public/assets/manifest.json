@@ -1,0 +1,134 @@
+{
+  "react_icons": [
+    {
+      "brand": "Airtel",
+      "export_name": "SiAirtel",
+      "usage": "brand_logo",
+      "reason": "Official Airtel mark for banking service branding"
+    },
+    {
+      "brand": "Anthropic",
+      "export_name": "SiAnthropic",
+      "usage": "provider_chip",
+      "reason": "AI provider logo for the Claude integration"
+    },
+    {
+      "brand": "Yahoo Finance",
+      "export_name": "SiYahoo",
+      "usage": "integration_chip",
+      "reason": "Financial data source identification"
+    }
+  ],
+  "downloaded_assets": [
+    {
+      "id": "hero-bank-office-bright",
+      "kind": "photo",
+      "filename": "hero-bank-office-2.jpg",
+      "title": "Modern Finance Office",
+      "description": "Bright, professional office space with clean workstations and gray tones.",
+      "visual_description": "A wide shot of a modern open-plan office. Sleek white desks with dual monitors, ergonomic black mesh chairs, and large windows letting in abundant natural light. The palette is dominated by professional grays, whites, and soft metallic tones.",
+      "color_notes": "Dominant: Clean white (#FFFFFF), Light gray (#E0E0E0), Charcoal (#333333). Matches the Airtel-inspired theme perfectly.",
+      "mood": "Professional, Modern, Trustworthy",
+      "placement": "hero",
+      "recommended": true,
+      "alt_text": "Modern bright financial office workspace",
+      "dimensions": "1200x600",
+      "source_page_url": "https://www.pexels.com/photo/interior-design-of-a-business-office-5511099/",
+      "provider": "Pexels",
+      "photographer": "Mike van Schoonderwalt",
+      "verified_via": "read_image",
+      "why_it_was_chosen": "Perfectly captures the 'trusted modern banking' vibe with a clean, high-end professional look that won't distract from the UI."
+    },
+    {
+      "id": "hero-bank-office-warm",
+      "kind": "photo",
+      "filename": "hero-bank-office-3.jpg",
+      "title": "Luxury Financial Interior",
+      "description": "Sophisticated warm-toned office interior for a high-end banking feel.",
+      "visual_description": "Close-up of a stylish modern office with luxury furniture and soft ambient lighting. Neutral gray and beige tones provide a calm, premium atmosphere.",
+      "color_notes": "Warm grays and soft beiges. Works well as a sophisticated background.",
+      "mood": "Sophisticated, Calm, Premium",
+      "placement": "hero",
+      "recommended": false,
+      "alt_text": "Elegant modern luxury office interior",
+      "dimensions": "1200x600",
+      "source_page_url": "https://www.pexels.com/photo/modern-luxury-office-interior-design-33342710/",
+      "provider": "Pexels",
+      "photographer": "Essentia Media",
+      "verified_via": "file_size_check_only",
+      "why_it_was_chosen": "Alternative for a warmer, more executive feel if the bright office is too sterile."
+    },
+    {
+      "id": "texture-gray-gradient",
+      "kind": "photo",
+      "filename": "texture-gray-gradient.jpg",
+      "title": "Subtle Gray Texture",
+      "description": "Very soft gray gradient texture for card backgrounds.",
+      "visual_description": "Extremely subtle abstract gray texture with soft geometric lines and soft gradients.",
+      "color_notes": "Light grays and off-whites. Extremely neutral.",
+      "mood": "Minimal, clean",
+      "placement": "card_background",
+      "recommended": true,
+      "dimensions": "800x600",
+      "source_page_url": "https://www.pexels.com/photo/multiple-patterns-of-stripes-on-gray-surface-4252519/",
+      "provider": "Pexels",
+      "verified_via": "file_size_check_only",
+      "why_it_was_chosen": "Provides a tactile, premium feel to cards without adding visual clutter."
+    },
+    {
+      "id": "logo-airtel-bank",
+      "kind": "downloaded_logo",
+      "filename": "logo-bank-airtel-in.png",
+      "title": "Airtel Payments Bank Logo",
+      "description": "Official logo for Airtel Payments Bank.",
+      "placement": "header",
+      "recommended": true,
+      "provider": "Official Source",
+      "verified_via": "official_source_plus_svg_header",
+      "why_it_was_chosen": "Official brand mark requested for the app upgrade."
+    },
+    {
+      "id": "icon-verified-shield",
+      "kind": "downloaded_logo",
+      "filename": "icon-verified.svg",
+      "title": "Verified Banking Shield",
+      "description": "A crisp, professional shield icon representing trust and safety.",
+      "visual_description": "A geometric shield-like mark, clean and symmetrical.",
+      "placement": "trust_indicator",
+      "recommended": true,
+      "provider": "SimpleIcons (Kaspersky)",
+      "verified_via": "official_source_plus_svg_header",
+      "why_it_was_chosen": "Chosen for its strong 'shield' silhouette which conveys security in a banking context."
+    },
+    {
+      "id": "icon-news-globe",
+      "kind": "downloaded_logo",
+      "filename": "icon-globe.svg",
+      "title": "News Globe Icon",
+      "description": "A minimalist globe icon for news or global finance sections.",
+      "placement": "navigation",
+      "recommended": true,
+      "provider": "SimpleIcons (Internet Archive)",
+      "verified_via": "official_source_plus_svg_header",
+      "why_it_was_chosen": "Clean, circular globe icon that matches the modern banking aesthetic."
+    }
+  ],
+  "missing_assets": [],
+  "css_textures": [
+    {
+      "class_name": "bg-mesh",
+      "placement": "hero_background",
+      "description": "Subtle radial mesh gradient for a modern fintech look."
+    },
+    {
+      "class_name": "bg-noise",
+      "placement": "card_overlay",
+      "description": "Tactile noise texture to give a premium feel to cards."
+    }
+  ],
+  "usage_notes": [
+    "Primary Red (#D40000) should be used for primary buttons and accents.",
+    "Use hero-bank-office-2.jpg as the main hero image for its bright, trusted feel.",
+    "Texture-gray-gradient.jpg should be applied as a subtle background to cards at low opacity (0.1-0.2)."
+  ]
+}

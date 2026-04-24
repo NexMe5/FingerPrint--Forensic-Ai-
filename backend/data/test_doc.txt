@@ -1,0 +1,6 @@
+Forensic Test Document
+Company: Tesla Inc. (TSLA)
+Claim 1: We expect to deliver 1.8 million vehicles in 2023.
+Claim 2: Our energy storage business is growing 300% year-over-year.
+Claim 3: We have over $20B in cash and cash equivalents.
+End of report.
